@@ -1,1 +1,3 @@
-
+This program takes in an mp4 file and runs ORB i.e. key feature detection on each image in the mp4 file. Doing so helps us realise the frames 
+that are unique in the video which allows us to make a summary of the video. ORB was used as the primary technique is similar to SIFT/SURF with 
+enhanced pace to solve the algorithm rather quickly.
